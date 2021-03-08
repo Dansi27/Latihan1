@@ -1,6 +1,6 @@
 # flutter_application_1
 
-Tugas 1
+Tugas 1 Daniel
 
 ## Getting Started
 
